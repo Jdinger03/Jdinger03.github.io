@@ -256,8 +256,7 @@
 
 .u-section-3 .u-form-1 {
   height: 342px;
-  width: 570px;
-  margin: 0 -5px;
+  margin: 0 0 0 -10px;
 }
 
 .u-section-3 .u-form-group-1 {
@@ -372,7 +371,6 @@
   .u-section-3 .u-form-1 {
     margin-top: 50px;
     margin-left: 0;
-    margin-right: 0;
     width: 460px;
   }
 
